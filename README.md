@@ -9,6 +9,7 @@ Blueberry offers:
 - database abstraction (including foreign key support with lazy loading and JOIN-ed queries),
 - acl support (entity level and action level),
 - forms,
+- dependency injection,
 - caching,
 - recursive menu trees with acl integration,
 - templates.
